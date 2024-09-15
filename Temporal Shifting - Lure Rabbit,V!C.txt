@@ -1,0 +1,22 @@
+Ten
+Nine
+Eight
+Seven
+Six
+Five
+Four
+Three
+Two
+One
+Antication Successful
+十
+九
+八
+七
+六
+五
+四
+三
+二
+一
+验证成功
