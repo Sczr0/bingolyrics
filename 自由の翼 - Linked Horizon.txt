@@ -2,7 +2,7 @@ O mein Freund!
 Jetzt hier ist ein Sieg.
 Dies ist der erste Gloria.
 O mein Freund!
-Feiern wir diesen Sieg für den nächsten Kampf!
+Feiern wir diesen Sieg für den n"achsten Kampf!
 Die Flügel der Freiheit
 「無意味な死であった」
 と...言わせない
@@ -46,7 +46,7 @@ Mensch, Sie welche sind?
 Freund!Jetzt hier ist ein Sieg.
 Dies ist der erste Gloria.
 O mein Freund!
-Feiern wir diesen Sieg für den nächsten…
+Feiern wir diesen Sieg für den n"achsten…
 Der Feind ist grausam… Wir bringen…
 Flügel der Frieheit
 啊，我的战友！
@@ -97,6 +97,4 @@ Flügel der Frieheit
 战友啊！今日我们在此赢得一场胜利。
 这是最初的荣光。
 啊，我的战友！
-欢呼胜利吧，为了下一场…
-敌人纵然残酷…我们将奉献此生…
-自由之翼
+欢呼胜利吧，为了下一

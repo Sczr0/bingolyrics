@@ -1,5 +1,5 @@
 Saiverd loclken a wethd
-虚ろな者　君の名を示す
+虚ろな者 君の名を示す
 lafz fomdra Lay
 暗闇へ差し込み腕
 Iliffzidra
@@ -13,11 +13,11 @@ Fulsel Qulher
 Estrad
 穿つ者
 Phol dimilla
-必ず　到達する
+必ず 到達する
 「Rhuzewl」
 「意思へ」
 Saiverd loclken a wethd
-虚ろな者　君の名を示す
+虚ろな者 君の名を示す
 lafz fomdra Lay
 暗闇へ差し込み腕
 Ilizidra
@@ -31,7 +31,7 @@ Fulsel Qulher
 Estrad
 穿つ者
 Phol dimilla
-必ず　到達する
+必ず 到達する
 「Rhuzewl」
 「意思へ」
 Saiverd loclken a wethd
@@ -49,7 +49,7 @@ Fulsel Qulher
 Estrad
 穿つ者
 Phol dimilla
-必ず　到達する
+必ず 到達する
 「Rhuzewl」
 「意思へ」
 Saiverd loclken a wethd
@@ -65,7 +65,7 @@ Fulsel Qulher
 Estrad
 穿つ者
 Phol dimilla
-必ず　到達する
+必ず 到達する
 「Rhuzewl」
 「意思へ」
 空虚之人 出示你的名号
