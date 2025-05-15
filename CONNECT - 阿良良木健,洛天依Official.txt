@@ -1,3 +1,4 @@
+﻿[By:极速零件王]
 有我在陪着你
 有我在爱着你
 有我在听着你
@@ -49,3 +50,5 @@
 别让自己的心灵紧闭
 你抬头望去
 会看见彩虹在 天际
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

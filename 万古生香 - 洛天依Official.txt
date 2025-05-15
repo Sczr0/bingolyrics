@@ -1,3 +1,4 @@
+﻿[By:刀-子]
 今夜若欠清光满堂
 蘸笔天河绘万古生香
 史笔滔滔烟霞绣像
@@ -45,3 +46,6 @@
 行经故梦今又来访
 天高海阔盛世飞扬
 再谱十万章
+调校 : Creuzer
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

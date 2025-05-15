@@ -1,3 +1,4 @@
+﻿[By:8酱TvT/8酱TvT]
 法界の火 / 東方星蓮船
 by Alstroemeria Records - of memories
 わからないわ 私のことは
@@ -34,3 +35,5 @@ Believe for me
 相信我吧
 May be Keeping my dream with you
 可能 我们会在梦中相遇
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

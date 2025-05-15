@@ -1,3 +1,4 @@
+﻿[By:瓜瓜呱瓜瓜]
 無数の　偽証に
 无数的伪证
 縋り付いてまで
@@ -80,3 +81,5 @@
 你刻下的未来 重叠着谁?
 少年が叫ぶ刹那を  唄い続ける
 少年呼喊的刹那 歌声萦绕不息
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

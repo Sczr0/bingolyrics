@@ -1,3 +1,4 @@
+﻿[By:世研里葬]
 突然起こるわからない
 突然间，不知为何
 自分の心拍聞こえるの
@@ -124,3 +125,5 @@
 专属的现实
 2人だけのランデヴー
 只属于我们二人的相遇
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

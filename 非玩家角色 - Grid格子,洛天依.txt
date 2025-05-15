@@ -54,3 +54,5 @@ OK 算了 反正也没人听到第二段了
 向他们奉献的非玩家角色
 奉献之中丢失了自我
 她的蛹最后孵化成空壳
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

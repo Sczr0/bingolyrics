@@ -1,3 +1,4 @@
+﻿[By:沐冰-]
 奇爱人生 THE COMPLETE EXPERIENCE
 向第一次看到它的朋友们解释一下。
 这是将整张专辑以不间断形式剪辑的一个「特别版」。
@@ -453,3 +454,5 @@ No.12 走马灯
 还有人 值得留恋吗？
 告诉我吧... ...
 第一次制作，望喜
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

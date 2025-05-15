@@ -25,3 +25,5 @@ co-copier co-copier
 枪落到影子上摔碎了谁的糖
 co-copier co-copier
 可悲又可笑 理所当然的骄傲
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

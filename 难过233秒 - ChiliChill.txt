@@ -54,3 +54,5 @@ Itai itai
 找到蹲在屋檐下面的自己
 如果能给她个拥抱代替言语
 Itai itai kara
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

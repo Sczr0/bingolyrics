@@ -1,3 +1,4 @@
+﻿[By:AlexNotFoundBNDS]
 Hi guys!Today,I will show you how to...Ma、maii...MaKe...e......
 嗨朋友们！今天我来教大家怎么...做...一首...
 英語わからから日本語で!
@@ -134,3 +135,5 @@ FREE VOCAL~
 打打打打打打打打打打打打打打
 終わり!
 结束啦！
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

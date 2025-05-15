@@ -1,3 +1,4 @@
+﻿[By:西木桔]
 表裏ないのかいいのに
 虽然表里如一也无何不可
 正直な夜も不安で
@@ -56,3 +57,5 @@
 直到互相理解的那天
 END
 end
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

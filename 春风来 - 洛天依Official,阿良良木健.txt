@@ -1,3 +1,8 @@
+﻿[By:Black_July]
+编曲/调教/PV：阿良良木健
+曲绘：风柚子
+原声吉他/电吉他：陈宇骁
+特别感谢：小野道
 寒风已到来
 花儿也落败
 天空布满着阴霾
@@ -54,3 +59,5 @@
 就算再过短暂
 就让我 许下期盼
 明天一定会到来
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

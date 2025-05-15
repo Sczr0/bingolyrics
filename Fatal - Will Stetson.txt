@@ -1,3 +1,4 @@
+﻿[By:孟夏夏夏夏]
 While waking up another dream fades,
 再度从梦中醒来
 My eyelids open, ever tearstained.
@@ -136,3 +137,5 @@ You are my fatale!
 你是我的fatale！
 You are my fatale now...
 我永远的fatale...
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

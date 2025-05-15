@@ -30,3 +30,5 @@
 星轨成为我们的路标
 未来へ続く光の道
 照亮通向未来的光明之路
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

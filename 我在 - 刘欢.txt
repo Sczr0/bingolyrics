@@ -1,4 +1,4 @@
-我在
+﻿我在
 我⼀直都在
 徒⾃守护着那⼀瞬间
 只为有你在⾯前
@@ -33,3 +33,5 @@
 我在
 我⼀直都在
 ……
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

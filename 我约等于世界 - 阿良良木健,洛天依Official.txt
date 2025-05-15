@@ -1,4 +1,4 @@
-我将那世界抵抗 用我的模样
+﻿我将那世界抵抗 用我的模样
 不自量力的妄想 镌刻在心脏
 神明不能支配我 用挂碍阻挡
 我是我 不熄灭 的光芒
@@ -40,3 +40,5 @@ Woo woo 故事尚未终结
 Woo woo 我在等待明天
 Woo woo 我不属于异类
 Woo woo 我约等于世界
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

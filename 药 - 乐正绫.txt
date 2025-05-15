@@ -1,3 +1,4 @@
+﻿[By:珩殊丶]
 药
 清丽之月高挂天空 破败的栏桥
 孤身一人的少女 靠着栏杆微笑
@@ -66,3 +67,5 @@
 毁灭之歌 重生之歌
 一切都在 所有都在
 尽情享用药所带来的一切吧
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

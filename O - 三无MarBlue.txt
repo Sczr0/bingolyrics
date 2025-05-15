@@ -1,3 +1,4 @@
+﻿原唱 : 洛天依
 笑到嘴角抽痛
 跳到双脚红肿
 我的脚步轻松
@@ -47,3 +48,5 @@ yo yo aha
 在每双没有梦的眼里循环又循环
 又循环又循环又循环又循环（郎哟）
 又循环又循环又循环又循环....(上山岗喽)
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

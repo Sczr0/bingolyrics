@@ -1,10 +1,16 @@
-《彼岸（Another Shore）》
+﻿《彼岸（Another Shore）》
+项目总统筹：梁玥辰 & 然然
+发行负责人：唐喜乐
+发行统筹：常念一 & 楼天一 & 猫力
+录音师：Liusu & 杨宇翔
 Within the boundless expanse of existence, one might query the presence of life beyond our terrestrial realms.
-Does it, in truth, find its dwelling amid the cosmic abyss, or are these mere conjured mirages?
-In the midst of the intricate weave, do we stand in isolation, or might concealed companions reside beyond perception?
-In the domain of interstellar reverie, curiosity impels our voyage, directing us toward the elusive shore awaiting on that side.
--------
 在无边无际的宇宙万物中，人类或许会疑问，在我们的地球之外是否存在其他生命。
+Does it, in truth, find its dwelling amid the cosmic abyss, or are these mere conjured mirages?
 它是否真的栖息在宇宙的深渊之中，抑或其踪迹只是幻化出来的错觉？
+In the midst of the intricate weave, do we stand in isolation, or might concealed companions reside beyond perception?
 在错综复杂的宇宙织体中，我们是否孤立无援，或是有潜藏的同行者存在我们的感知之外？
+In the domain of interstellar reverie, curiosity impels our voyage, directing us toward the elusive shore awaiting on that side.
 在星际遐想的领域里，好奇心推动着我们的航程，指引我们驶向那遥不可及的彼岸。
+-------
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,11 @@
+﻿策划：一只岁碎& CARDINAL星海
+制作人/作曲：依溪禾
+调校： Creuzer
+混音/母带： Digifan
+吉他录制： katsu- Lee& Envoyofchaos
+古筝录制：墨韵随步摇
+配器监制： katsu- Lee
+绘画：孜然 cike
 听宇宙之呼吸文明生于沟渠
 炊烟袅袅升起艳日缓缓落去
 大梦孕于生息银河之下肇始千年长旅
@@ -41,3 +49,5 @@
 我灵魂太坚毅要到深空更深处去
 将未来期许写入最恢弘记叙
 经久不息的歌穿过悠悠千年于星间安居
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

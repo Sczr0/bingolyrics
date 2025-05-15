@@ -1,4 +1,4 @@
-身侧迷雾看不清
+﻿身侧迷雾看不清
 孤声鸟语为谁鸣
 水中涟漪因浮生
 从日出直到月明
@@ -38,3 +38,5 @@
 泪水干涸
 将我囚入
 须臾的永恒
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

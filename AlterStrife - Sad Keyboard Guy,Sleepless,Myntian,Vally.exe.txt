@@ -1,3 +1,4 @@
+﻿[By:Br0kEnw0D]
 Blue dusk, cold sight
 阴郁之暮，冰冷之景
 Lost in the dark light
@@ -98,3 +99,5 @@ Will they all fall?
 他们会一蹶不振？
 Collected,but rejected once more
 拼凑，然后再一次发起反抗
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

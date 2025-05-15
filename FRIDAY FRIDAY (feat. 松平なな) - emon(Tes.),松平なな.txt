@@ -1,3 +1,4 @@
+﻿[By:落花彩虹]
 お気に 入りのミュージック
 まった ずっと このまま
 朝まで躍り続けていよう
@@ -31,3 +32,5 @@ Dance all night(Dance all night)
 FRIDAY FRIDAY
 (Party night)
 FRIDAY FRIDAY
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

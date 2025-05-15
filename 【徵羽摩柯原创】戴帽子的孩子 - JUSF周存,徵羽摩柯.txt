@@ -1,3 +1,5 @@
+﻿编调混：JUSF周存
+绘：Maryko
 一座被恶龙占领的村子
 某一天来了个懵懂孩子
 孩子戴一顶华美的帽子
@@ -34,3 +36,5 @@
 孩子弃了村子失了影子
 人们说希望永不会消失
 于是我戴上了那顶帽子
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

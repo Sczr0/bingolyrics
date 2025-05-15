@@ -1,3 +1,4 @@
+﻿[By:0xDEADC0DE]
 遠く遠く　日差しの下(もと)に
 长日遥遥
 静かに青い影落とし
@@ -22,3 +23,5 @@ Sunlight Shines Through　にじむ視界の中に
 长久渴望的是
 握るその手に揺れる温もり
 紧握你颤抖的温暖的手
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,6 @@
+﻿吉他：王尧GT
+调教：硫叶立德_NA
+调教：硫叶立德_NA
 夕闇の街
 暮色的街道
 風に長く引き伸ばされ 暗い影は消えようと
@@ -68,3 +71,5 @@ echoしか聞こえなくても
 向着光
 光刺す方へ
 向着光刺来的方向
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

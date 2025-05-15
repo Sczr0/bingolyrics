@@ -1,3 +1,4 @@
+﻿[By:FinaFina]
 唖々、臨界実験に付き合う朝
 啊啊 要去做临界核实验的早上
 14听（ポンド）を嗤う蔑奴（ベッド）
@@ -102,3 +103,5 @@ But a 眩みUnbalance 乖離Faraway！
 Maximizer Maximizer!
 マキシマイザー マキシマイザー！
 Maximizer Maximizer!
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

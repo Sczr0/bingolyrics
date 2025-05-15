@@ -1,4 +1,8 @@
-《解域（Déterritorialisation）》
+﻿《解域（Déterritorialisation）》
+项目总统筹：梁玥辰 & 然然
+发行负责人：唐喜乐
+发行统筹：常念一 & 楼天一 & 猫力
+录音师：溯筌（傅思勤） & MasterJ（景彦森）
 信号浮游于暗物质 的海洋
 时间 与空间 在视界 边缘纠缠
 舱门外  飞船驶过收音机的 碎片
@@ -20,3 +24,5 @@
 庞加莱回 归的明亮新生
 弦理 论 谱写演 化的交响曲
 生命的意义 不再是 单调的 波形
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

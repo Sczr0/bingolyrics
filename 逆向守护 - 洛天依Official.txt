@@ -1,3 +1,4 @@
+﻿[By:chonger3132/chonger3132]
 ‘我已知晓她的存在
 从那个夜晚开始’
 ‘我已知晓我为何存在
@@ -87,3 +88,5 @@
 …<逆向 守护>…
 ‘你是谁？’
 ‘我不记得了……’
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,96 +1,99 @@
+﻿[By:奶油电线杆]
 Windy
-You're going through the flow
-Courier of the voice
-In the little world of mine
-I wake up but I'm just alone
-Where are you now
-I really wish I could kiss and say goodbye
-To the face of the sky
-To follow the wind
-To follow the world
-To follow your steps in the long lost world
-And to sleep in the ocean's bed
-You're a blue bird
-I can't be like you
-I'm just a glued bard
-Lonely, bound to the ground
-欠けた大地
-This is my world
-ずっと錆びた銀のアタノール
-Mayday, I must be drowning
-I can't hear your sound
-My bodies are rust and bust
-I'm just a shattered ground
-So lovely and exact
-You are flooding my heart
-Every moment
-Sandstorm
-僕は砂に溶けゆくかりそめの城の外で風を感じてた
-君の声
-遠く遠く弾けてく
-More than I'd need
-Your tears are flooding my seas
-And when you're gone
-I'd be swallowed by the cold of my world
-You're a blue bird
-I can't be like you
-I'm just a glued bard
-Lonely, bound to the ground
-欠けた大地
-This is my world
-ずっと錆びた銀のアタノール
-Mayday, I must be drowning
-I can't hear your sound
-My bodies are rust and bust
-I'm just a shattered ground
-So lovely and exact
-You are flooding my heart
-Every moment
 风起
+You're going through the flow
 你正穿越气流
+Courier of the voice
 声之信使
+In the little world of mine
 在我的小世界中
+I wake up but I'm just alone
 我孤独醒来
+Where are you now
 现在你在何处
+I really wish I could kiss and say goodbye
 多希望可以与你亲吻、再会
+To the face of the sky
 仰望天空
+To follow the wind
 随风而行
+To follow the world
 追寻寰宇
+To follow your steps in the long lost world
 在久违的世界中跟随你的舞步
+And to sleep in the ocean's bed
 在海床中酣睡
+You're a blue bird
 你是青鸟
+I can't be like you
 而我不同
+I'm just a glued bard
 我是桎梏的旅者
+Lonely, bound to the ground
 寂寞地困居地面
+欠けた大地
 碎裂的大地
+This is my world
 这就是我的世界
+ずっと錆びた銀のアタノール
 不停流淌腐朽银流
+Mayday, I must be drowning
 救我，我要溺亡了
+I can't hear your sound
 聆听不到你的声音
+My bodies are rust and bust
 我的身躯生锈破碎
+I'm just a shattered ground
 如被蹂躏的大地
+So lovely and exact
 如此美妙而确切
+You are flooding my heart
 你淹没了我的心
+Every moment
 在每个时刻
+Sandstorm
 沙暴肆虐
+僕は砂に溶けゆくかりそめの城の外で風を感じてた
 我感受到沙土在城堡外的风中消融
+君の声
 你的声音
+遠く遠く弾けてく
 悠然回响在远方
+More than I'd need
 富于我求
+Your tears are flooding my seas
 你的眼泪充盈我的大洋
+And when you're gone
 你离去时
+I'd be swallowed by the cold of my world
 我将被世界的寒冷吞噬
+You're a blue bird
 你是青鸟
+I can't be like you
 而我不同
+I'm just a glued bard
 我是桎梏的旅者
+Lonely, bound to the ground
 寂寞地困居地面
+欠けた大地
 碎裂的大地
+This is my world
 这就是我的世界
+ずっと錆びた銀のアタノール
 锈蚀已久的银色丹炉
+Mayday, I must be drowning
 救我，我要溺亡了
+I can't hear your sound
 聆听不到你的声音
+My bodies are rust and bust
 我的身躯生锈破碎
+I'm just a shattered ground
 如被蹂躏的大地
+So lovely and exact
 如此美妙而确切
+You are flooding my heart
 你淹没了我的心
+Every moment
 在每个时刻
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

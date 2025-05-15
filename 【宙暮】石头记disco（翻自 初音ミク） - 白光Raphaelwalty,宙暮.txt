@@ -6,7 +6,9 @@
 满纸荒唐可供一笑
 便秉彤管向红尘
 再走一遭
+填词：司天紫成
 嘿！
+调校：白光Raphaelwalty
 花册十二 叹薄命
 其命数能谁自主
 贾史王薛 人间事
@@ -87,3 +89,5 @@
 应叹他人跳不出
 石上奇谈留谁批注
 把血泪写成书
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

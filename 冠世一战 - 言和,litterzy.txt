@@ -1,3 +1,4 @@
+﻿[By:ZAGZAT]
 虽千万人逆我之 我仍执着
 侠客行遍九州 恩仇奔波
 刀光剑影里是谁的明眸粲粲如星火
@@ -42,3 +43,5 @@
 纵使我双掌倚天 苍龙伏获
 拼此生 尚不知 是功是过
 若非冠世一战 后人何处听传说
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,4 +1,4 @@
-We rise together as our destiny unfolds
+﻿We rise together as our destiny unfolds
 We face the darkness and our trials are yet untold
 Through the shadows of despair
 Oh, in silence, hopes we share
@@ -35,40 +35,5 @@ The whispers and secrets they’d keep
 To hope! We bound~
 Break free, we chased our dreams, beneath the starry night
 In the face of god, we rose, as one
-随着命运的展开，就让我们一同迎战
-而考验尚未结束，我们仍需直面黑暗
-穿过绝望的阴影
-在沉默中，我们共享希望
-只为追逐我们宣告中的理想
-我们曾尝试多看一眼
-却被无知蒙蔽了视线
-既然听不懂他们的注解
-那就由我们找寻自己该走的路
-请注意！命运的车轮正在转动
-跨越平原，穿过深谷
-向着黎明，这车轮行滚滚而行歌唱着
-一个无尽的梦！
-请注意！轨道已然在运转
-穿过阴霾藏匿的平原
-我们奔跑，我们向前
-面对恐惧和困境，我们依然坚守阵地
-历久弥坚，胜利定会在望
-我们已穿越风雨
-只希望能沐浴在真理的光芒中
-挣脱枷锁，重获新生
-请注意！命运的车轮正在转动
-跨越平原，穿过深谷
-向着黎明，这车轮行滚滚而行歌唱着
-一个无尽的梦！
-请注意！轨道已然在运转中
-穿过了阴霾藏匿的平原
-我们奔跑，我们向前
-抬起头！跟着坚定的节奏
-终点已近在咫尺
-迈向我们的理想之地
-让一切重见曙光
-请注意！命运的车轮正在歌唱
-他们保守着苦痛的秘密和私语
-而我们终将迎来希望
-挣脱束缚，我们在星空下追逐梦想
-面对神灵，我们团结一致，奋勇向前
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

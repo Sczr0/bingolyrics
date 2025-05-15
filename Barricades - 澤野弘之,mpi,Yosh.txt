@@ -1,3 +1,4 @@
+﻿[By:有人说我名字太长那就叫家杰吧]
 Wouldn't it be nice to take a walk on some pure white sand,
 若能够在纯净的白沙上漫步
 gaze at the horizon,
@@ -106,3 +107,5 @@ We'll live a life without barricades
 摆脱高墙的约束和思想的枷锁，自由地活下去
 Woh...
 woh...
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

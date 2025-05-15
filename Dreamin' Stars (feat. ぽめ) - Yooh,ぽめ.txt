@@ -1,3 +1,4 @@
+﻿[By:Emptyset_0]
 It's a starry night.
 这是繁星点点的夜晚
 君は居ない
@@ -34,3 +35,5 @@ Hello,Hello,Hello
 梦想着起飞翱翔
 何度も超えて行ける
 可以无数次跨越
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

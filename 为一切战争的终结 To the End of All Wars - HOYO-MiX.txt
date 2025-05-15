@@ -1,0 +1,10 @@
+﻿Ati kweli mwahofuni kifo? (Hapana) / 你是否畏惧死亡？（绝不）
+Ushujaa wenu ni imara? (Bila shaka) / 你是否勇气依旧？（毋庸置疑）
+Kumbukeni majina ya mashujaa / 铭记英雄的名字，追随他们
+Andameni uwanjani / 再一次，踏上战场
+Kwa jamaa, nchi na taifa (Zuri, safi, sawa) / 为家人，为故乡，为国家（为了荣光）
+Kwa matumaini, mbeleni, malengo (Vuma, raha, nguvu) / 为理想，为愿望，为未来（为了希望）
+Kwa jamaa, nchi na taifa (Zuri, safi, sawa) / 为家人，为故乡，为国家（为了荣光）
+Kwa matumaini, mbeleni, malengo (Vuma, raha, nguvu) / 为理想，为愿望，为未来（为了希望）
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

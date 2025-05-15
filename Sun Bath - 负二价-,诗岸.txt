@@ -1,3 +1,4 @@
+﻿[By:名字为何没掉]
 旋转着  洗衣房
 把衣物吐出
 将它送到  我的手中
@@ -20,3 +21,5 @@
 周围的景色  也消失不见
 谁都会明白一件事
 在角落旋转着
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

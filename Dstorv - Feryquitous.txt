@@ -1,36 +1,40 @@
+﻿[By:hakosh]
 Dstorv
 Vocal.Sennzai Composer.Feryquitous
 Album. ＜Groundbreaking 2014＞
-by_hakosh
-变幻至终的姿态纠缠着意识
-仅有复杂的过程被准备完善
-被改变的厌恶感刺痛着深层
-欺骗那心
-变幻至终的形式纠缠着意识
-仅有复杂的过程被准备到位
-被改变的厌恶感痛扎着深层
+prose teforme endicate tzente | (変わり果てた姿の結末は意識を纏う)
+salvafomate prose on redy | (複雑な過程だけが用意された)
+hate decenta fraw throw mate decall | (改変された嫌悪感が深層へ刺さる)
+ende fateind trasfomate | (その心を欺く)
+prose teforme endicate tzente | (変わり果てた姿の結末は意識を纏う)
+salvafomate prose on redy | (複雑な過程だけが用意された)
+hate decenta fraw throw mate decall | (改変された嫌悪感が深層へ刺さる)
+ende fateind trasfomate | (その心を欺く)
 将心欺骗
-渐渐破毁而去
-将那真实扰乱
-不断破碎消逝
-把那真实搅毁
-渐渐破毁而去
-将那真实扰乱
-不断破碎消逝
-把那真实搅毁
-海市蜃楼般的现实
-将其搅毁
-海市蜃楼般的言语
-将其扰乱
-海市蜃楼般的现实
-将其扰乱
-海市蜃楼般的言语
-将其搅毁
-渐渐破毁而去
-将那真实扰乱
-不断破碎消逝
-把那真实搅毁
-渐渐破毁而去
-将那真实扰乱
-不断破碎消逝
-把那真实搅毁
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+Ignkis waurds | (蜃気楼のような現実)
+Dstorv. | (掻き乱せ)
+Ignkis listein | (蜃気楼のような言葉)
+Dstorv. | (掻き乱せ)
+Ignkis waurds | (蜃気楼のような現実)
+Dstorv. | (掻き乱せ)
+Ignkis listein | (蜃気楼のような言葉)
+Dstorv. | (掻き乱せ)
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+ah 「Diceistab」 | 「壊れていく」
+ad crysi en 「Dstorv」 | その真実を「掻き乱す」
+by_hakosh
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

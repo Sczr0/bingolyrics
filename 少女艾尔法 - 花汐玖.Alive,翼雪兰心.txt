@@ -1,5 +1,12 @@
-国人原创物语音乐系列
+﻿国人原创物语音乐系列
 αrtist5·乐观之罪与背叛之刑
+策划/作词：雨狸
+曲绘：Lune
+人设：柴艾YAL
+视频：Nekoloco
+调校：MACHWOLF、monolith
+鸣谢：Alice映画
+技术支持：X Studio: Wonderland
 我是一支拼凑的短歌 是被唾弃的因果
 我的双眸浸透名为预知的诅咒 不得善始 亦无善终
 我仍有一场宿命要背负 而你拾起了我
@@ -22,3 +29,5 @@
 即使我们不停地歌唱 善也会消逝吧
 司掌艺术与美的神呐 我最无知的同志啊
 你终会忘却这预言吧 高塔也会倒下
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,4 +1,4 @@
-车窗外 这夜色 流光溢彩
+﻿车窗外 这夜色 流光溢彩
 别忘了 闭上眼 才算醒来
 你参演 这场戏 变换姿态
 谜底 结局 我该 怎么猜
@@ -25,5 +25,5 @@
 是是非非 别再意会
 忘记时间 来梦的派对
 来一场不眠之夜 作结尾
-升赫录音棚Soundhub Studio
-Kevin刘瀚文@Soundhub Studios
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

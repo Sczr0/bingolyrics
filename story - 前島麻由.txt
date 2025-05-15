@@ -1,3 +1,4 @@
+﻿[By:南归_T]
 Refrain　消した記憶 Rewrite
 忍住 抹去的记忆
 物語の常　垣間見せる言葉で
@@ -94,3 +95,5 @@ Save yourself
 拯救自己！
 Don’t forget
 永不忘记！
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

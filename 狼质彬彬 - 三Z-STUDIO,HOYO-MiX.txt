@@ -7,3 +7,5 @@ Página en blanco
 Palomas vuelan en el cielo alto
 Diligencia
 Elegancia y nobleza
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

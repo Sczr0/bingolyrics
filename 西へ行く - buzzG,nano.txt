@@ -1,3 +1,4 @@
+﻿[By:自愈系]
 All alone again as he walks the empty path
 踽踽独行 踏上旅途的他再度孑然一身
 Searching for the place that he's seen inside his dreams
@@ -62,3 +63,5 @@ And the sound of our steps echoing now from the deep abyss inside
 纵然幽谷邃远，如今亦然回荡这铿锵足音
 It's the sound that keeps me alive
 正是这呼鸣驱使我一往无前
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

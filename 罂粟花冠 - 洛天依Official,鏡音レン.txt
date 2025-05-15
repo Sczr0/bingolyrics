@@ -1,3 +1,4 @@
+﻿[By:符卡]
 Des phy Sallauphe syou chweegh
 Defoe tin Sallauknoe phecheey yahh
 Sallauknoe phecheey yahh
@@ -65,3 +66,5 @@ Des phoettee SAABBAY SSAH HAAGH (Safiiylla Sheeysallassou)
 戴上瞬间即被宣告了死亡
 理性永不会无端从天而降
 除非你嗅到了罂粟的花香
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:花之铭]
 你在名为弱小的深渊
 究竟看见过什么
 向着他们口出恶言
@@ -77,3 +78,5 @@
 现实多么幽默
 沉寂了白日梦
 对我发出一声声冰冷的嘲笑
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

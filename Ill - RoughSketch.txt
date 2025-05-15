@@ -1,3 +1,4 @@
+﻿[By:我需要去医院]
 When we're alone and the world is gone
 (When we're alone and the world is gone)
 I turn to you,you're my number one
@@ -29,3 +30,5 @@ When we're alone and the world is gone
 I turn to you,you're my number one
 (I turn to you,you're my number one)
 When we're alone and the world is gone
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

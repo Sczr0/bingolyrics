@@ -1,3 +1,6 @@
+﻿[By:欧米伽之球]
+编调混：JUSF周存
+绘：sya
 或许一切都已结束
 或许故事早就落幕
 理应卸去所有盔甲
@@ -70,3 +73,5 @@ Now hear me babe
 浑浑噩噩
 不得终日
 再下跪
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

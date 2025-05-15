@@ -1,3 +1,4 @@
+﻿[By:小旦SNTube]
 割り切る前に黙った
 在彻底割舍之前沉默着
 傷つく前に笑った
@@ -142,3 +143,5 @@
 累到极点想要睡觉
 けどほっとけない事態 対駄談
 却是不能放松的事态 来闲谈
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

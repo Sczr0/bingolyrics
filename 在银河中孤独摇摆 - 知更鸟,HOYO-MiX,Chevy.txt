@@ -1,4 +1,4 @@
-Mend your pace, sway to the beat
+﻿Mend your pace, sway to the beat
 Hands up! Embrace who you wanna be
 We’re reaching heights unseen
 Feel the fire deep within
@@ -35,40 +35,5 @@ Renew your definition
 World so high, we’ll show
 and go beyond horizon
 Side by side
-加快步伐，紧随这律动摇摆
-高举双手，拥理想自我入怀
-我们一起抵达未见之境
-感受着心底火焰
-你令我轻启心扉，交托信赖
-加入我的梦境吧，大好时机已来
-把一切都抛开
-现在做好准备——
-跃升
-闯入我的世界
-更新你的定义
-向你展示这里的超乎寻常
-让你听见我的宣言
-“从此，再无拘束”
-高高跳起，用双脚叩出节拍
-当你感受到律动，繁星已近在咫尺
-我们一起触碰更高的天空
-要向炽燃中飞跃
-不在凡俗里沉沦
-加入我的梦境吧，大好时机已来
-把一切都抛开
-现在做好准备
-（随我一起高唱）
-欢迎来到我的世界
-更新你的定义
-向你展示这里的超乎寻常
-让你听见我的宣言
-“从此，再无拘束”
-欢迎来到我的世界
-更新你的定义
-向你展示这里的超乎寻常
-现在请静静地聆听
-欢迎来到我的世界
-更新你的定义
-我们要向世人证明这里的超乎寻常
-越过地平线
-肩并着肩
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

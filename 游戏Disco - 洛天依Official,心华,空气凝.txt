@@ -35,3 +35,5 @@
 我只能默默地做任务来换碎片
 别人却十连抽又是一波全服通告 没法玩
 没法玩
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

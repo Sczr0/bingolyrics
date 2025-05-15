@@ -1,9 +1,7 @@
-看
+﻿看
 单纯的蓝
 遇上阳光
 把世界都点亮
-永昼
-Far from the sky
 我早已把日期都忘记
 迷失在无穷尽的光明
 再一次 漫不经心
@@ -50,3 +48,5 @@ Far from the sky
 泪水止不住地流
 究竟是因为伤痛
 因为忧愁 又或者感动
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -37,3 +37,5 @@ PingPingPingPing
 诶？诶？怎么回事，怎么还冒烟了！
 电脑！电脑！电脑着火啦！
 哎哟——
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

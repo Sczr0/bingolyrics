@@ -1,3 +1,4 @@
+﻿[By:TaTa在吃饭]
 色あせた写真、メモリー
 褪色的照片、记忆
 幸せな時間、軌跡
@@ -86,3 +87,5 @@ Dye the sky in my hue.
 想要比任何人都要耀眼
 世界の全てを打ち破って
 打破世界的一切
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

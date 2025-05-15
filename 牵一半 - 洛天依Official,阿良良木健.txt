@@ -1,3 +1,4 @@
+﻿[By:_50D_]
 牵一半 把手牵一半
 我们不会在 人群里走散
 手一摊 把手心一摊
@@ -54,3 +55,5 @@
 让我们 故事都圆满
 从零开始，这份爱，让我们一起创造
 献给 最闪亮的你
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

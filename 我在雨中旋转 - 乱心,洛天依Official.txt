@@ -1,3 +1,4 @@
+﻿[By:39初始之音]
 晚上下班
 穿着不太亮的衬衫
 走进地铁站
@@ -103,3 +104,5 @@ oh我像一个孤岛
 在雨中旋转
 我在雨中旋转
 在雨中旋转
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

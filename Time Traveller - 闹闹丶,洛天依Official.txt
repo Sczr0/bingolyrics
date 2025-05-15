@@ -1,3 +1,11 @@
+﻿策划：落骞
+文案：落骞
+编曲/伴奏混音：闹闹丶（幻茶会）
+人声混音：小欧Ω（幻茶会）
+调教：Sapphire 深海之鱿
+曲绘：六青 后井一粮
+美工：绾竹（TS映画）
+协力：竹浣reboot（TS映画）
 厌倦了纸上铅字成堆
 还能否折起三两试卷 作纸鹤飞
 也不免有时万念俱灰
@@ -35,3 +43,5 @@ timeless travel
 timeless travel
 timeless travel
 timeless travel
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

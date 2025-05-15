@@ -1,3 +1,4 @@
+﻿ 混音:于治Ray-J
 气氛暧昧的月光 心跳不会说谎
 香水味掩盖欲望
 闭上了眼睛 连呼吸都变得滚烫
@@ -36,3 +37,5 @@ You lefta trace of my kiss
 气氛暧昧的月光 心跳不会说谎
 香水味掩藏欲望
 闭上了眼睛 连呼吸都变得滚烫
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

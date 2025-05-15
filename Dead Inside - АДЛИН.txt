@@ -1,3 +1,4 @@
+﻿[By:vuor1]
 О-о-о
 Oh-oh-oh
 Каждый день на своей волне
@@ -86,3 +87,5 @@ Oh-oh-oh
 无论在哪里和谁一起
 Ты ушла, ушли проблемы
 你走了，问题都过去了
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

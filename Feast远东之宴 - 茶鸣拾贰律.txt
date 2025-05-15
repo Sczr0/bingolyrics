@@ -1,4 +1,4 @@
-酒神之名 是何种陷阱
+﻿酒神之名 是何种陷阱
 且需一探究竟
 火炮轰鸣 又是谁的战意
 紧绷犹疑的心
@@ -40,3 +40,5 @@ Cracking 只闻炮竹轰天鸣奏
 且就一饮而尽
 转身离去 日光破空之际
 崭新的梦快苏醒
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

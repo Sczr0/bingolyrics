@@ -108,3 +108,5 @@ Don't leave, let me freez 날 좀 도와줘, Help me please
 不管你说什么
 난 기다릴거야 내일 다시 올게 내일 다시 올게)
 我也会等下去的 明天我还会来 明天我还会来
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

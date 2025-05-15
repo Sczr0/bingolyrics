@@ -1,3 +1,4 @@
+﻿[By:什么鬼WTFFF]
 时间的微风吹过 缓缓拂过了耳畔
 你的容颜一直悄悄改变
 离去太久才发觉
@@ -52,3 +53,5 @@
 最后全都微笑着释然
 谢谢你让我成为最幸福的小孩
 感谢你的爱
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

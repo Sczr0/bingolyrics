@@ -1,4 +1,10 @@
+﻿[By:我宴青山]
 妄想症系列•#之章•病入膏肓者的选择
+策划/词：雨狸
+调：Digger
+混：POiSON
+绘：Lune、YAL
+视：一折起售
 红石蒜在无人之地盛开
 妄议着未来 于是溃败
 是谁在独享神的偏爱
@@ -43,3 +49,5 @@
 目之所及怜乞驾凌逻辑认知的康愈
 忘却悲哀的言语
 零落在冰冷的囹圄
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:Arya-F-Jones]
 立ち込める 退廃が，
 你身所处的废墟，
 君を待つ ベールで隠す，
@@ -88,3 +89,5 @@
 奋然而起 即刻脱离桎梏。
 飛び立つまでの距離でいい。
 到达腾空而起的距离即可。
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

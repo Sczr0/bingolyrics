@@ -69,3 +69,5 @@
 就照单全收吧
 世界正是因不同色彩而有着魅力嘛
 有时反面别犯贱去看就是啦
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:云卷KumoMaki]
 境界はじわり消えゆく
 境界渐渐消失
 頭の先まで真っ白なシーツに同化する
@@ -86,3 +87,5 @@ aunaoa tueihe
 chueri chueri chepoufu
 チュエリチュエリ チェポウフ
 chueri chueri chepoufu
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

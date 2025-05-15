@@ -1,4 +1,4 @@
-Loneliness, fighting back again
+﻿Loneliness, fighting back again
 Seems to be like it never ends
 Give us hope through the love of
 peaceful shine on me
@@ -33,36 +33,5 @@ Lead the way 嵐を乗り越えて
 枯れ行く大地を 踏みしめるように
 Go ahead 真っ直ぐ歩みだせる
 終わり
-孤寂长夜又再度降临
-仿佛没有止境
-是爱给了我们希望
-沐浴着温暖的光芒
-面临倾盆不止的大雨
-一直忘记微笑
-交织着千万苦痛的世界
-若于纷争和虚伪中
-让心灵枯萎的话
-不如像那狂暴的风浪中浮起的花儿
-Lead the way 跨越这场暴风雨
-宛如稳踏在这片干涸的大地上
-Go ahead 能够勇往直前
-本应存在于此的梦想
-以及早已忘怀的希望
-狠狠刺穿这锈蚀的胸口
-深深压抑住的呐喊
-失去一切信念
-仿佛想从痛苦中脱离而出
-与其叹惜充满了
-疑心和憎恨的现状
-不如像那呼啸而来的狂风中高歌的鸟
-Sing away 让歌声响彻高空
-犹如灯光照亮了阴霾的天空
-Look ahead 展望光明吧
-为了重拾过往喜悦与幸福的记忆
-群众们都纷纷伸出双手寻求光芒 Ah
-在连绵不断永无休止的岁月里
-毫不吝啬地托付出此身躯
-如同狂暴的风浪中浮起的花儿
-Lead the way 跨越这场暴风雨
-宛如稳踏在这片干涸的大地上
-Go ahead 能够勇往直前
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

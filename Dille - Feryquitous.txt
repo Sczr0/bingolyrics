@@ -1,27 +1,31 @@
+﻿[By:ShdenisM]
 Abidel Rid wezha ray | もうそこには届かないわ
-Frockeme zaridew Encor ed Xas | もう一度 嘘でも聞きたかった
-An Betdariuzis Konsis Dlle | 私はここで打ち拉がれる
-「Dille」|「わたしはここよ」
-Ei Ckrass Feryas evad | 呼吸が音を連れて
-「Dille」|「ここにいるわ」
-Aignis hall worgws ah | 真実も霞む場所へ
-Abidel Rid wezha ray | もうそこには届かないわ
-Frockeme zaridew Encor ed Xas | もう一度 嘘でも聞きたかった
-An Betdariuzis Konsis Dlle | 私はここで打ち拉がれる
-「Dille」|「わたしはここよ」
-Ei Ckrass Feryas evad | 呼吸が音を連れて
-「Dille」|「ここにいるわ」
-Aignis hall worgws ah | 真実も霞む場所へ
 那无法传达的声音
+Frockeme zaridew Encor ed Xas | もう一度 嘘でも聞きたかった
 即使是谎言，也想再听一次
+An Betdariuzis Konsis Dlle | 私はここで打ち拉がれる
 我终于此地，沉沦、塌陷
+「Dille」|「わたしはここよ」
 「我犹存于此处」
+Ei Ckrass Feryas evad | 呼吸が音を連れて
 呼吸，连带着那份声音
+「Dille」|「ここにいるわ」
 「于此处」
+Aignis hall worgws ah | 真実も霞む場所へ
 传向那真实也遁入虚无之处
+Abidel Rid wezha ray | もうそこには届かないわ
 那无法传达的声音
+Frockeme zaridew Encor ed Xas | もう一度 嘘でも聞きたかった
 即使是谎言，也想再听一次
+An Betdariuzis Konsis Dlle | 私はここで打ち拉がれる
 我终于此地，沉沦、塌陷
+「Dille」|「わたしはここよ」
 「我犹存于此处」
+Ei Ckrass Feryas evad | 呼吸が音を連れて
 呼吸，连带着那份声音
-「就在这里
+「Dille」|「ここにいるわ」
+「就在这里啊」
+Aignis hall worgws ah | 真実も霞む場所へ​
+传向那真实也遁入虚无之处
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

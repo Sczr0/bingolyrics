@@ -1,3 +1,4 @@
+﻿[By:THE_BLACK_LABEL]
 あたしが愛を語るのなら その眼には如何、映像る？
 若要由我来谈论爱的话、在那双眼中映出的又是何等景象？
 詞は有り余るばかり 無垢の音が流れてく
@@ -124,3 +125,5 @@ BYE BBYE BYE
 谁也不知道的这个故事
 またくちずさんでしまったみたいだ
 似乎又不小心哼唱出来了
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

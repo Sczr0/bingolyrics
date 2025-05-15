@@ -1,3 +1,4 @@
+﻿
 当 突然感到命运的残忍
 周围有些孤单的气氛
 陷入漫漫长夜 只想寻找一盏灯
@@ -40,3 +41,5 @@
 天空才是舞台
 现在 走吧 有花开正繁盛
 现在 走吧 有花开在旅程
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

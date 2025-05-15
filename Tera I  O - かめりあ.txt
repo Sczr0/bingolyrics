@@ -1,3 +1,6 @@
+﻿[By:牧花慧]
+作词/作曲:Camellia
+流派：200步
 (Low Voice...)
 （小声……）
 3 2 1
@@ -104,3 +107,5 @@ We feed you a deathblow
 我们给你一个致命打击
 It's Tera I/O!
 这就是Tera IO！
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

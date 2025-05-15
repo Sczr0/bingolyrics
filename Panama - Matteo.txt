@@ -1,3 +1,4 @@
+﻿[By:Trap_Girl]
 若是你不喜欢这个地方
 Mai zboara-n Panama
 那就飞往巴拿马
@@ -116,3 +117,5 @@ Ah ah ah ah mai zboara-n Panama
 飞往巴拿马
 Ah ah ah ah hai mai zboara Pwaah
 仍然飞往巴拿马
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

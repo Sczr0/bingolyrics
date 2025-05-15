@@ -1,3 +1,7 @@
+﻿[By:我就无聊咋地了]
+调教: JUSF周存
+编曲/混音: JUSF周存
+曲绘: Sya
 大小姐逃亡中 是第七天
 戴了顶新帽子 遮住眉眼
 昏暗路灯下 低声交谈
@@ -60,3 +64,5 @@
 背叛了所有
 徒留一人囚禁在
 记忆构筑的牢笼
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,7 @@
+﻿[By:天儿中V子]
+调音：JUSF周存
+编曲/混音：跳蝻
+绘：Sya
 漂浮在虚空
 不得透露
 选择来此处停泊的缘由
@@ -43,3 +47,5 @@
 却连存在都被剥夺
 狂怒仍烧灼 女神的轮廓 她在说
 不如欣赏最光辉的落魄
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

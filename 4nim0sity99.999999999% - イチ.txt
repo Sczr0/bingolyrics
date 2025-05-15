@@ -1,3 +1,4 @@
+﻿[By:anemone_Sr]
 個々の生まれは星があるようで
 每个人出生都伴随有星辰
 まわりを見れば皆と違いました
@@ -86,3 +87,5 @@
 一切只因永无尽头
 全部なくなっていいよ　さようなら
 全部没有了也没关系 再见吧！
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

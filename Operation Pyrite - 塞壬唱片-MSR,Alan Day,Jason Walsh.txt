@@ -107,3 +107,5 @@ Burn me to the ground
 任其将我烧成灰烬
 Burn me to the ground
 将我焚烧殆尽
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]
