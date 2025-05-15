@@ -1,3 +1,4 @@
+﻿[By:已过期i]
 戯言たちは風任せ
 就让那些戏言随风而去吧
 息を呑んだ少女、夢任せ
@@ -114,3 +115,5 @@
 都只存在于我的心中
 あたしの中にしかないわ
 都只存在于我的心中
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

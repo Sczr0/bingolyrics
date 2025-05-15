@@ -1,3 +1,4 @@
+﻿[By:时年久]
 【编调混绘视】JUSF周存
 我欲成为那 不可能成为的人
 在这混乱大地上 扎根
@@ -61,3 +62,5 @@
 教唆着臣民阻挠光辉的悸动
 不如抬头再看看绚烂的星空
 告诉我世界还能照常毁灭吗
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

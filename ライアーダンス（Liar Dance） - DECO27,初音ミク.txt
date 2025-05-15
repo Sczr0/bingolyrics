@@ -1,3 +1,4 @@
+﻿[By:nanoyoo]
 奪った？それなんのことかしら
 夺去了？你在说些什么啊
 知らんぷって 今日を重ねるの
@@ -128,3 +129,5 @@
 再见
 さようなら
 再别
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

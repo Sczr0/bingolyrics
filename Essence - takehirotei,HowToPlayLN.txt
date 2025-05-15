@@ -1,52 +1,55 @@
+﻿[By:hycx233]
 == I - beginnings ==
-The tiebreaker is undeniably the essence of all tournaments.
-It is the fruit of hard work,
-the culmination of a valiant effort to fight,
-and the manifestation of absolute determination.
-It is the desperation that creates friendship,
-the flood of adrenaline that replenishes life,
-and the myriad of emotions
-that make one feel ever so momentarily blissful,
-that they could relish in the very moment
-where everyone belongs in the game.
-I really love the tiebreaker.
-== II - uncertainty ==
-== III - progress ==
-== IV - ascendance ==
-== V - essence ==
-Today, we shall celebrate
-the uncertainties which were overcome,
-the conflicts which were quelled,
-and the sorrows which were lifted,
-and create the greatest star
-that will burst into the brightest supernovae
-and illuminate the universe
-This, is the true essence.
-== VI - forever ==
-Close your eyes.
 == I - 起始 ==
+The tiebreaker is undeniably the essence of all tournaments.
 毋庸置疑，决胜局是所有比赛的精髓。
+It is the fruit of hard work,
 它是努力练习的成果，
+the culmination of a valiant effort to fight,
 是英勇战斗的高潮，
+and the manifestation of absolute determination.
 是绝对坚毅的体现。
+It is the desperation that creates friendship,
 它是创造友谊的绝望，
+the flood of adrenaline that replenishes life,
 是补充生命的肾上腺素的狂飙，
+and the myriad of emotions
 是无数的情感，
+that make one feel ever so momentarily blissful,
 使人感到如此短暂的幸福，
+that they could relish in the very moment
 在每个人都属于游戏的那一刻，
+where everyone belongs in the game.
 他们可以享受其中。
+I really love the tiebreaker.
 我真的很喜欢决胜局。
+== II - uncertainty ==
 == II - 变数 ==
+== III - progress ==
 == III - 进步 ==
+== IV - ascendance ==
 == IV - 飞升 ==
+== V - essence ==
 == V - 精髓 ==
+Today, we shall celebrate
 今天，我们应当庆祝
+the uncertainties which were overcome,
 那些被克服的变数，
+the conflicts which were quelled,
 那些被平息的冲突，
+and the sorrows which were lifted,
 那些被消散的忧伤，
+and create the greatest star
 并创造出最伟大的明星，
+that will burst into the brightest supernovae
 迸发出最耀眼的超新星，
+and illuminate the universe
 照亮整个宇宙。
+This, is the true essence.
 这，就是真正的精髓
+== VI - forever ==
 == VI - 永恒 ==
+Close your eyes.
 闭上你的眼睛。
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

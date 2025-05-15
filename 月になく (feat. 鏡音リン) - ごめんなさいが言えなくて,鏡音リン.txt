@@ -1,3 +1,4 @@
+﻿[By:responseR]
 切り取ればあなた
 单独细细观察的话
 今を持て余してる
@@ -86,3 +87,5 @@
 我如今依旧在仰望天空
 ずっとおいてけぼりさ
 却只是一直被弃之不顾
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

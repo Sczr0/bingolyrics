@@ -1,3 +1,4 @@
+﻿[By:Popette]
 殻の世界　祈り宿した
 空洞的世界 蕴藏种种愿景
 真実を描いた定義
@@ -58,3 +59,5 @@
 道路都不会仅此一条
 信じた私で越えてゆく
 如此相信的我 正不断渡过难关
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

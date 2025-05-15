@@ -1,218 +1,220 @@
-Switch on the power line
-Remember to put on
-PROTECTION
-Lay down your pieces
-And let's begin
-OBJECT CREATION
-Fill in my data parameters
-INITIALIZATION
-Set up our new world
-And let's begin the
-SIMULATION
-"world.execute(me);"
-If I'm a set of points
-Then I will give you my
-DIMENSION
-If I'm a circle
-Then I will give you my
-CIRCUMFERENCE
-If I'm a sine wave
-Then you can sit on all my
-TANGENTS
-If I approach infinity
-Then you can be my
-LIMITATIONS
-Switch my current
-AC to DC
-And then blind my vision
-Dizzy so dizzy
-We can travel
-A.D to B.C
-And we can unite
-So deeply
-If I can give you all the
-STIMULATIONS
-Then I can be your only
-SATISFACTION
-If I can make you happy
-I'll run the
-EXECUTION
-Though we are trapped
-In this
-SIMULATION
-If I'm an eggplant
-Then I'll give you my
-NUTRIENTS
-If
-Tomato tomato
-Then I'll give you
-ANTIOXIDANTS
-If
-Meow
-Then I will purr for your
-ENJOYMENT
-If I'm the only god
-Then you're the proof of my
-EXISTENCE
-Switch my gender
-F to M
-And then do whatever
-AM to PM
-Switch my role
-S to M
-So we can enter
-The trance
-Trance
-If I feel your
-VIBRATIONS
-Then I can be
-COMPLETION
-Though you have left
-You have left
-You have left
-You have left
-You have left
-You have left me in
-ISOLATION
-If I can
-If I can erase all the pointless
-FRAGMENTS
-Then maybe you won't leave me so
-DISHEARTENED
-Challenging your god
-You have made some
-ILLEGAL ARGUMENTS
-EXECUTION
-EIN
-DOS
-TROIS
-NE
-FEM
-LIU
-EXECUTION
-If I can give them all the
-EXECUTION
-Then I am your only
-EXECUTION
-If I can have you back
-I will run the
-EXECUTION
-Though we are trapped
-We are trapped
-Ah
-I've studied how to properly love
-Question me I can answer all love
-The algebraic expression of love
-Though you're free
-I'm trapped in love
-LOVE
-EXECUTION
+﻿Switch on the power line
 接上电源
+Remember to put on
 记得装备好
+PROTECTION
 绝缘护具
+Lay down your pieces
 摆好棋子
+And let's begin
 开始吧
+OBJECT CREATION
 对象生成
+Fill in my data parameters
 输入我的参数
+INITIALIZATION
 数据初始化
+Set up our new world
 设定好我们的新世界
+And let's begin the
 开始吧
+SIMULATION
 模拟程序
+\"world.execute(me);\"
 “世界.执行（我）；”
+If I'm a set of points
 如果我是一组点
+Then I will give you my
 那么我将献给你
+DIMENSION
 我的次元
+If I'm a circle
 如果我是一个圆
+Then I will give you my
 那么我将献给你
+CIRCUMFERENCE
 我的圆周
+If I'm a sine wave
 如果我是一条正弦波
+Then you can sit on all my
 那么请你坐上
+TANGENTS
 我的切线
+If I approach infinity
 如果我趋近于无穷
+Then you can be my
 那么你便可以成为
+LIMITATIONS
 我的极限
+Switch my current
 切换我的电流
+AC to DC
 交流到直流
+And then blind my vision
 然后蒙上我的眼睛
+Dizzy so dizzy
 头晕目眩
+We can travel
 我们可以穿越时空
+A.D to B.C
 未来到过去
+And we can unite
 然后成为一体
+So deeply
 深深入髓
+If I can give you all the
 如果我能够献给你
+STIMULATIONS
 所有的刺激
+Then I can be your only
 那么我就能够成为你
+SATISFACTION
 唯一的满足
+If I can make you happy
 如果我能够让你开心
+I'll run the
 那么我将
+EXECUTION
 执行指令
+Though we are trapped
 但我们被困
+In this
 在这个
+SIMULATION
 模拟程序之中
+If I'm an eggplant
 如果我是一根茄子
+Then I'll give you my
 那么我将献给你
+NUTRIENTS
 我的营养
+If
 如果
+Tomato tomato
 番茄番茄（我是一颗番茄）
+Then I'll give you
 那么我将献给你
+ANTIOXIDANTS
 我的抗氧化物
+If
 如果
+Meow
 喵（我是一只花猫）
+Then I will purr for your
 那么我将为你咕噜咕噜
+ENJOYMENT
 只要你喜欢
+If I'm the only god
 如果我是唯一的神
+Then you're the proof of my
 那么你将是我
+EXISTENCE
 存在的证明
+Switch my gender
 切换我的性别
+F to M
 女到男
+And then do whatever
 只做想做的事
+AM to PM
 早到晚
+Switch my role
 切换我的角色
+S to M
 施虐者到受虐者
+So we can enter
 这样我们就可以
+The trance
 恍惚出神
+Trance
 恍惚出神
+If I feel your
 如果我能够感受到
+VIBRATIONS
 你的振动
+Then I can be
 那么我就能够
+COMPLETION
 变为完全
+Though you have left
 但你还是走了
+You have left
 你走了
+You have left
 你走了
+You have left
 你走了
+You have left
 你走了
+You have left me in
 你离我而去
+ISOLATION
 在孤独之中
+If I can
 如果我能
+If I can erase all the pointless
 如果我能够消去
+FRAGMENTS
 这些无意义的碎片
+Then maybe you won't leave me so
 那么我就可能不会
+DISHEARTENED
 如此失望
+Challenging your god
 与神作对
+You have made some
 你传给我的是
+ILLEGAL ARGUMENTS
 非法参数
+EXECUTION
 执行
-一（德语）
+DOS
 二（西班牙语）
+EIN
+一（德语）
+TROIS
 三（法语）
+NE
 四（韩语）
+FEM
 五（瑞典语）
+LIU
 六（汉语）
+EXECUTION
 死刑
+If I can give them all the
 如果我能够给所有人
+EXECUTION
 赐予死刑
+Then I am your only
 那么我就能够成为
+EXECUTION
 你唯一的执行者
+If I can have you back
 如果你能够回到我身边
+I will run the
 那么我将
+EXECUTION
 执行指令
+Though we are trapped
 但我们始终被困
+We are trapped
 始终被困
+Ah
 啊
+I've studied how to properly love
 我学会了如何正确去爱
+Question me I can answer all love
 只要是爱的问题我全都能答对
+The algebraic expression of love
 爱的代数表达式我也知道
+Though you're free
 虽然你已自由
+I'm trapped in love
 我仍被困在爱之中
+LOVE
 在爱之中
+EXECUTION
 执行死刑
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

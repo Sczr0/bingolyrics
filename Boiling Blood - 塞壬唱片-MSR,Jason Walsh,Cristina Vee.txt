@@ -1,4 +1,8 @@
 ﻿
+Producer & Engineer: Jason Walsh
+制作人&录音师：Jason Waish
+总监：Matthew Carl Earl
+附加编曲师：Kylar Deporter
 (Oh)
 \"你知道她值得信任，是因为她在为你奉献生命。\"
 We're not gonna lose (not gonna lose)
@@ -41,3 +45,5 @@ Our love is ash and memory (ash and memory)
 以及在战火与灰烬中铸就成的战友情谊
 (Oh)
 (时光虽逝，至死不渝)
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

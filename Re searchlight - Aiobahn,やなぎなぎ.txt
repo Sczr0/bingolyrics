@@ -1,3 +1,4 @@
+﻿[By:已过期i]
 遠い光だった
 那是一束遥远的光
 いつもチカチカおしゃべり
@@ -82,3 +83,5 @@
 用超出想象的方式
 照らし返すよ！
 照耀着回应！
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

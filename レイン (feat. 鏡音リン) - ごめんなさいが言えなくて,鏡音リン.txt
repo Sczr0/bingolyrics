@@ -1,3 +1,4 @@
+﻿[By:39初始之音]
 生きづらい今日に
 在艰难度日的今天
 肥大する感傷ほど
@@ -148,3 +149,6 @@ music...
 君のほうへ
 传达给你的
 歌う声は雨の音に溶かして
+歌声混杂在雨声之中溶解（翻译：风音Staky）
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

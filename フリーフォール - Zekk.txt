@@ -1,3 +1,4 @@
+﻿[By:克ererer洛洛]
 I'v never felt so alive in my life
 漫漫此生，我从未感受过这般汹涌蓬勃的生命力。
 cause you make me come to life every time
@@ -26,3 +27,5 @@ come to uuuuuu
 如飞蛾扑火
 come to uuuuuu
 义无反顾
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

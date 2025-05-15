@@ -1,3 +1,5 @@
+﻿词: Benjamin/ mpi
+翻策:郝老板
 It's not easy lose my grip those dreams are calling me
 陷入困境 失去掌控 我听到梦想的召唤
 Like a hermit used to find a reason not to be
@@ -168,3 +170,5 @@ Of reality
 现实的感知
 Gonna change reality
 我将改变现实
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:蒴奈]
 この混沌とした令和のインターネットを照らす一筋の光
 这是一股照亮混沌的令和时代互联网的一道光
 電子の海を漂うオタクに笑顔を
@@ -87,3 +88,5 @@ SNSという瓶詰地獄に救済を
 アナタだけの　2DGIRL
 只属于你的 2DGIRL
 （ANGEL……）
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

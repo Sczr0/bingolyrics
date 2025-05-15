@@ -1,4 +1,4 @@
-我们分散在几千几亿个角落
+﻿我们分散在几千几亿个角落
 聚拢或是开合
 沸腾着的饥饿
 失联的mars
@@ -49,4 +49,6 @@
 你的吻
 发疯向我奔来
 在日落前分解成尘埃吧
-“你
+“你啊。”
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

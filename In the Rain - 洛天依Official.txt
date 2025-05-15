@@ -1,4 +1,6 @@
+﻿[By:S_Lyrica_Nee]
 《In The Rain》
+曲/编曲/调教：JUSF周存
 LISTEN TO ME
 YO YO COME WITH ME
 HERE CHEER
@@ -109,3 +111,5 @@ LISTEN TO ME
 YO YO COME WITH ME
 HERE CHEER
 END
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,5 @@
+﻿[By:KusunokiAsuha/KusunokiAsuha]
+作詞：烏屋茶房
 色あせた写真、メモリー
 褪色的照片与记忆
 幸せな時間、軌跡
@@ -88,3 +90,5 @@ Dye the sky in my hue.
 击破世上的一切
 LRC by YG
 - 曲终 -
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

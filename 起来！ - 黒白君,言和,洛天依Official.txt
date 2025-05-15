@@ -1,3 +1,4 @@
+﻿[By:呵呵柳暗花明]
 三 二 一 起来
 时候 到了
 然而我的内心是崩溃的
@@ -41,3 +42,5 @@
 终究要起来哒
 来一起最后倒数
 十九八七六五四三 起来啦
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

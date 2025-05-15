@@ -1,3 +1,8 @@
+﻿[By:sankta_lumo]
+策：雨狸
+混：POiSON
+绘：闻香Nadir
+封面：β
 我从不相信 时间能愈合所有的伤
 它只不过是这麻木世界
 对你拒绝妥协的症状 开的一副毒药
@@ -63,3 +68,6 @@
 总在黑暗中扼住我的梦想
 那么多天经地义的事
 为何说我离经叛道
+成词时间：2015年8月30日
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

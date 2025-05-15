@@ -1,3 +1,4 @@
+﻿[By:SRnP_]
 La da da dee da da da da
 La da da dee da da da da
 La da da dee da la da da da dee da
@@ -74,3 +75,5 @@ La da da dee da da da da
 La da da dee da da da da
 La da da dee da la da da da dee da
 La da da dee da da da da da
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

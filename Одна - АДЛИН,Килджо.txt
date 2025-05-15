@@ -1,3 +1,4 @@
+﻿[By:丶絆丿]
 Снова одна ляжешь спать
 你再次独自入眠
 Снова нет никого рядом
@@ -94,3 +95,5 @@ Yeah, oh shit
 现在的感觉真好
 Вновь горят мои глаза
 我的眼睛再次燃烧
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

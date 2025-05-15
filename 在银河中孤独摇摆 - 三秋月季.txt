@@ -1,3 +1,7 @@
+﻿作曲 Composer：王可鑫 Eli. W HOYO- MiX
+作词 Lyricist：黑金雨/ Ruby Qu
+编曲 Arranger：王可鑫 Eli. W HOYO- MiX
+制作人 Producer：王可鑫 Eli. W HOYO- MiX
 Mend your pace sway to the beat
 Hands up Embrace who you wanna be
 We're reaching heights unseen
@@ -36,3 +40,5 @@ Renew your definition
 World so highwe'll show
 And go beyond horizon
 Side by side
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

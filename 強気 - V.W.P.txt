@@ -1,3 +1,4 @@
+﻿[By:初川彻]
 弱気吐く時　強気
 吐露软弱时 是逞强
 強気にこぼした　弱気
@@ -114,3 +115,5 @@ Ah すぐに慣れた
 哑然 象征 不健全的善意
 呪縛だらけの導火線
 满是诅咒束缚的导火索
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:维尔日记]
 銀河の片隅のメロウ
 银河的一角 忧伤的旋律
 表現力は死んでいる
@@ -86,3 +87,5 @@ Hope it's a lush quiet grassland
 生命力已经静止
 取るに足らぬドラマ 幸せの在処
 无关紧要的戏剧 幸福的所在
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

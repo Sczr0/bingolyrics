@@ -1,3 +1,4 @@
+﻿[By:虛无天意]
 雾霭阴霾 转眼消逝散开
 风雨离散 朝霞映上天际纯白
 总会有天 绽放花开
@@ -47,3 +48,5 @@
 就让 我用仅有的歌声
 和你一起歌唱 最初的歌
 最初的歌
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

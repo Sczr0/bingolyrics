@@ -95,3 +95,5 @@ end ぐるぐる もう終止符を打つ？
 循环往复 眼中朦胧不清的世界
 end ぐるぐる もう終止符を)
 已经落下了「end」的休止符)
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

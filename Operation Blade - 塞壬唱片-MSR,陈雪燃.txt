@@ -136,3 +136,5 @@ I’ll be bested by none now.
 现在的我战无不胜
 When all is said and done whoah whoah whoah yiya
 归根结底
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

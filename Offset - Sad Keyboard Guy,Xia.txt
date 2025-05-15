@@ -1,3 +1,4 @@
+﻿[By:w3120]
 One warm light, reflecting on the sea
 一束温暖的阳光，照在海面上
 Connected but drifting
@@ -84,3 +85,5 @@ I was wrong holding those words in me
 我错在将那些言辞藏在内心
 It's a new offset but not the unknown
 这是新的偏离量，但并非为人不知
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

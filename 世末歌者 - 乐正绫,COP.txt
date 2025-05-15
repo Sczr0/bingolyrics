@@ -1,3 +1,6 @@
+﻿[By:MisakaChino]
+编调：COP
+唱：乐正绫
 蝉时雨 化成淡墨渲染暮色
 渗透着 勾勒出足迹与车辙
 欢笑声 与漂浮的水汽饱和
@@ -47,3 +50,5 @@
 曲终之时 你是否便会回应我的心音
 将颤抖的双手牵起
 迎来每个人的结局
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -63,3 +63,5 @@ My Muse
 真实的我在你眼前
 心里有个声音 期待着蜕变
 我所了解的我 会被你了解
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

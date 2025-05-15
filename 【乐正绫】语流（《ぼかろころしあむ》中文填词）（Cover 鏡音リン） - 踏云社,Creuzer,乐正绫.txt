@@ -58,3 +58,5 @@
 四面楚歌 三缄其口 二童一马 相搏
 摇摇欲坠 目食耳视 不务正业 心长力弱
 浑浑噩噩 下陵上替 举棋不定 唯诺
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

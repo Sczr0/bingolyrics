@@ -94,3 +94,5 @@
 重获生机
 止まる鼓動の
 换已经停止的心跳
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

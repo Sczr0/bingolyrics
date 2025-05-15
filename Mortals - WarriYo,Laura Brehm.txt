@@ -1,16 +1,19 @@
+﻿[By:Th3three/九九Lrc歌词网～www.99Lrc.net]
 Stranded in the open
-Dried out tears of sorrow
-Lacking all emotion
-Staring down the barrel waiting for the
-Final gates to open
-To a new tomorrow
-Moving with the motion
-Following the light that sets me free
 受困于渺无人烟的空旷之处
+Dried out tears of sorrow
 悔恨悲伤的眼泪早已流干
+Lacking all emotion
 我毫无知觉
+Staring down the barrel waiting for the
 只全神盯住并等待着那圆孔中
+Final gates to open
 最后之门的开启
+To a new tomorrow
 去通往崭新的明天
+Moving with the motion
 随着示意而动
+Following the light that sets me free
 跟寻那道令我自由的光芒
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:Senvanlee]
 太初太易 无相无形 莫知浊重 孰辨清轻
 生乎混沌 分其昏明 天得以健 地得以宁
 绵绵若存 用之不勤 礼乐即作 仁义乃兴
@@ -59,3 +60,5 @@
 万类方生的初见
 总有谢幕的迎接
 如夜空飞星的炫烈 正霜天
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,72 +1,75 @@
+﻿[By:你见到的每个人都随身携带着粪便]
 In a star dominated by logic
-I found her with eyes so cosmic
-“I need to solve this formula to explicate the phenomena”
-Your lifeless voice still echoes in my ears
-焼け野原に咲いた薔薇がやけに綺麗だったから
-愛の言葉を知らない星で 机上の空想論
-僕が君の“i”ならば 君が僕の“i”ならば
-離れていても一緒だろ、散開星団
-ツマリ i belong to u
-ケダシ u belong to me
-サレド why are we alone
-ユエニ i + u = what?
-And I, I want to know your everything, inside this world of logic
-Cause I feel so alone, without you by my side my formula’s always incomplete
-Why, why can I never forget you, despite it being illogic
-But I still want to know, until the very end, the meaning of singing this love song
-Day after day, you were playing with numbers
-Till the day will come, when you fall into a slumber
-“finally, the binary is getting us closer to the truth!”
-―and that was your last signal
-ねえネビュラ 僕が本当に望んでいたモノは
-数字じゃない、記号じゃない アンサーテンな浪漫主義
-本当の“i”を見つけた僕、否、本当の“愛”を見つけた僕を
-どうか忘れてくれよ
-ツマリ i belong to u
-ケダシ u belong to me
-サレド why are we alone
-ユエニ i + u = what?
-And I, I want to know your everything, inside this world of logic
-Cause I feel so alone, without you by my side my formula’s always incomplete
-Why, why can I never forget you, despite it being illogic
-But I still want to know, until the very end, the meaning of singing this love song
-ツマリ i don’t belong to u
-ケダシ u don’t belong to me
-サレド we are all alone
-ユエニ i + u = love
 在一颗 充满理论的行星上
+I found her with eyes so cosmic
 我找到了她 眼睛像宇宙一样宽广
-"我需要解开这个方程 来解释这一现象"
+“I need to solve this formula to explicate the phenomena”
+\"我需要解开这个方程 来解释这一现象\"
+Your lifeless voice still echoes in my ears
 你空洞的声音 仍回响在我耳旁
+焼け野原に咲いた薔薇がやけに綺麗だったから
 烧尽的原野上盛开的蔷薇 才格外的美丽
+愛の言葉を知らない星で 机上の空想論
 不明白爱为何物的行星们 桌上的空想论
-如果我就是你的"i" 如果你就是我的"i"
+僕が君の“i”ならば 君が僕の“i”ならば
+如果我就是你的\"i\" 如果你就是我的\"i\"
+離れていても一緒だろ、散開星団
 即便分离也宛如在一起 散开的星团
+ツマリ i belong to u
 所以说 我属于你
+ケダシ u belong to me
 想必 你也属于我
+サレド why are we alone
 可为何 我们都形单影只
+ユエニ i + u = what?
 到底 i + u = ?
+And I, I want to know your everything, inside this world of logic
 我想去了解你的一切 在这个理论的世界里
+Cause I feel so alone, without you by my side my formula’s always incomplete
 因为我太孤单 没有你 我的方程式总是解不开
+Why, why can I never forget you, despite it being illogic
 为什么我总是忘不了你 这真是不可理喻
+But I still want to know, until the very end, the meaning of singing this love song
 但我还是想知道 我一直一直 唱着这首歌的意义
+Day after day, you were playing with numbers
 日子慢慢过去 你还在和数字较劲
+Till the day will come, when you fall into a slumber
 直到最终有一天 你陷入沉眠
-"最终 双体(二进制)将带领我们接近真相!"
+“finally, the binary is getting us closer to the truth!”
+\"最终 双体(二进制)将带领我们接近真相!\"
+―and that was your last signal
 ——那便是你留下的 最后的信号
+ねえネビュラ 僕が本当に望んでいたモノは
 行星们啊 我真正渴望的东西
+数字じゃない、記号じゃない アンサーテンな浪漫主義
 不是数字和记号 是不确定的浪漫主义
-找到了真实的"自己"   找到了真正的"爱"
+本当の“i”を見つけた僕、否、本当の“愛”を見つけた僕を
+找到了真实的\"自己\"   找到了真正的\"爱\"
+どうか忘れてくれよ
 就请把这样的我给忘掉吧
+ツマリ i belong to u
 也就是说 我属于你
+ケダシ u belong to me
 想必 你也属于我
+サレド why are we alone
 可为何 我们都形单影只
+ユエニ i + u = what?
 到底 i + u = ?
+And I, I want to know your everything, inside this world of logic
 我想去了解你的一切 在这个理论的世界里
+Cause I feel so alone, without you by my side my formula’s always incomplete
 因为我太孤单 没有你 我的方程式总是解不开
+Why, why can I never forget you, despite it being illogic
 为什么我总是忘不了你 这真是不可理喻
+But I still want to know, until the very end, the meaning of singing this love song
 但我还是想知道 我一直一直 唱着这首歌的意义
+ツマリ i don’t belong to u
 所以说 我并不属于你
+ケダシ u don’t belong to me
 想必 你也不属于我
+サレド we are all alone
 可为何 我们都深感孤寂
+ユエニ i + u = love
 因为 我们之间诞生了爱(i+ u= love)
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

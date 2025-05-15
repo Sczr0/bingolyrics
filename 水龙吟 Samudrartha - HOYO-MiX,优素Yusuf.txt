@@ -1,3 +1,4 @@
+﻿
 过往 潮汐
 将我的伤痕 刻蚀成龙鳞
 吐息中酝酿着风云
@@ -24,3 +25,5 @@
 淬炼出爪牙锋芒
 我必身披星光
 再临于重渊之上
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

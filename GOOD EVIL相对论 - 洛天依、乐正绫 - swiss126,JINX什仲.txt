@@ -1,4 +1,9 @@
 ﻿GOOD EVIL相对论
+策划、词作：十重孤独
+作曲、编曲：Swiss126
+调音：小蓝
+曲绘：咖啡
+ＰＶ：墨雨清泉
 歌《GOOD EVIL 相对论》
 专辑《浮世论》
 孤独工作室出品
@@ -58,3 +63,5 @@
 恶意 在四处生长
 “无辜”的人 佩戴了“罪名”
 何时能重拾信仰？
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:Bloodtox]
 Under the knife I surrendered
 我于刀刃下向你屈膝
 The innocence yours to consume
@@ -136,3 +137,5 @@ From the monster you made me?
 使我不再是你铸就的怪物
 From the monster you made me?
 使我不再是你铸就的怪物
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

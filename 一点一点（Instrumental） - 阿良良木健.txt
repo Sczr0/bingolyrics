@@ -1,3 +1,6 @@
+﻿演唱：洛天依
+调教：阿良良木健
+曲绘：阿良良木健
 av80433773
 对不起 感到很惭愧
 让您破费 笑出了眼泪
@@ -45,3 +48,5 @@ NA NA NA NA NA NA NA NA NA
 这美梦 最后 也已 终结 是我妄想作祟
 预祝我 荒谬过往 能带 给你 愉悦
 不用 同情我 我从来都 不缺 安慰
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

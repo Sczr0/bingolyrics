@@ -1,3 +1,4 @@
+﻿[By:心海真的屑]
 ただ媚れば貢ぐモノ
 只要挑逗一下就肯花钱
 ソレに感情なんて動かないワケで
@@ -102,3 +103,5 @@ I say \"belong to everyone\"
 知晓了本性的虫子
 踏まれて死んじゃった
 结局只是被踩死
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:UlyssesWu]
 グレーゾーンにて。/
 在灰色地带中。
 道のない世界から 私を連れ出して
@@ -37,3 +38,5 @@
 悲しさ一つずつ集めて
 /收集起一个个的悲伤
 -END-
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

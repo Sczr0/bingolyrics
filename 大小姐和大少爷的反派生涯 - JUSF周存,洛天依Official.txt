@@ -1,3 +1,6 @@
+﻿[By:zehdaze.00]
+编调混：JUSF周存
+曲绘：Sya
 大小姐今天换了一副新墨镜
 西装穿得笔挺
 嘴角正勾起
@@ -57,3 +60,5 @@
 是决战在等候
 枪口抵那先生的头
 告诉我谁去谁当留
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

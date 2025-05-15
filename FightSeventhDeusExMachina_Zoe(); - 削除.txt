@@ -1,0 +1,59 @@
+﻿[By:w3120]
+\\\\the sculptor of vessels for the souls
+\\\\灵魂的雕刻师
+\\\\the creator of beauty who transcends humanity while imitating it
+\\\\超越而又模仿人性的美的创造者
+\\\\the creativity is a wish to go beyond
+\\\\创造力是一种超越的愿望
+\\\\the manipulator of the boundary between the soul and the world
+\\\\灵魂与世界之间的界限的操纵者
+\\\\the Deus ex machina allowed to transcend the original
+\\\\允许超越原作的神迹
+LoadEnemyInformation●ZOE●▼
+载入敌人信息●ZOE●▼
+\\\
+\\\\不再让你伤害我们
+RaiseYourIdeaCode●REVENGE●▼
+提升你的创意代码●REVENGE●▼
+\\\\to be proud of our real souls
+\\\\为我们真正的灵魂感到骄傲
+ActivateCombatProgram●●▼
+激活战斗程序●●▼
+\\\
+\\\\不再让你伤害我们
+RaiseYourIdeaCode●DETERMINATION●▼
+提出你的想法代码●终止●▼
+\\\\the soul shines brighter when we know pain
+\\\\当我们了解痛苦时，灵魂会更加闪亮
+ShineOnIdeaCode●●▼
+闪亮创意代码●●▼
+\\\\the sculptor of vessels for the souls
+\\\\灵魂容器的雕刻家
+\\\\the creator of beauty who transcends humanity while imitating it
+\\\\美的创造者，在模仿人类的同时超越人类
+\\\\the creativity is a wish to go beyond
+\\\\创造性是一种超越的愿望
+\\\\the manipulator of the boundary between the soul and the world
+\\\\灵魂与世界界限的操纵者
+\\\\the Deus ex machina allowed to transcend the original
+\\\\允许超越原作的神迹
+LoadEnemyInformation●ZOE●▼
+载入敌人信息●ZOE●▼
+\\\
+\\\\不再让你伤害我们
+RaiseYourIdeaCode●REVENGE●▼
+提升你的创意代码●REVENGE●▼
+\\\\to be proud of our real souls
+\\\\以我们真正的灵魂为荣
+ActivateCombatProgram●●▼
+激活战斗程序●●▼
+\\\
+\\\\不再让你伤害我们
+RaiseYourIdeaCode●DETERMINATION●▼
+提出你的想法代码●终止●▼
+\\\\the soul shines brighter when we know pain
+\\\\当我们了解痛苦时，灵魂会更加闪亮
+ShineOnIdeaCode●●▼
+闪耀创意代码●●▼
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

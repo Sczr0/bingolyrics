@@ -1,3 +1,4 @@
+﻿[By:4008_8]
 HA MEI JIA LEI
 HA YI LA TA
 HA Mi SO LI
@@ -10,3 +11,5 @@ Ba Ka Lei Di Yi Bi Do Ye Le
 Ko Zi Go Yi Ah Lei Di Su Go
 Ku Zi Ya La Yi Ho Lei Di Oh Wu Ga Lei Ni
 Ku La Ki Mo Yi La Na Yi Do Ki
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:P-AOWOER]
 ugnissan
 rebmemer
 imc
@@ -38,3 +39,5 @@ stlem ihtihtnedia ecnad
 uroo tegrof otterugir otusarotusim
 umuzirup uranukan si Reve
 ~THE END~
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

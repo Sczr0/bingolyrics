@@ -1,3 +1,4 @@
+﻿[By:已过期i]
 これは 二十歳じゃない
 这并非二十岁的故事
 作業着 剥ぎ取っても
@@ -110,3 +111,5 @@
 留存我心的那份难以割舍的温暖
 ずっと まだ目の前に
 至今仍历历在目
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

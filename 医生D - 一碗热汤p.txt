@@ -1,4 +1,4 @@
-窗外的世界
+﻿窗外的世界
 窗外的世界
 海的那边
 有没有田野
@@ -25,3 +25,5 @@
 丢失的那块鳞片
 把梦和时间
 葬给歌和明天
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

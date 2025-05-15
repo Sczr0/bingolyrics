@@ -1,4 +1,4 @@
-嫌弃下雨的天气
+﻿嫌弃下雨的天气
 可怜垮掉的发型
 新买的鞋子沾上泥
 金鱼在袜子里嬉戏
@@ -43,3 +43,5 @@
 我的太阳
 在哪里呢 在哪里呢
 晒干这一片蓝色
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

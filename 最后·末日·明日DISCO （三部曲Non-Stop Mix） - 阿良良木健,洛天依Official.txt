@@ -1,4 +1,4 @@
-《最后DISCO》
+﻿《最后DISCO》
 人们在 讴歌这 希望的 血脉
 欢送 旧秩序的 崩坏
 仿佛 所有的 挫败
@@ -89,3 +89,5 @@
 就让我 用仅有的歌声
 和你一起歌唱 最初的歌
 最初的歌
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

@@ -1,3 +1,4 @@
+﻿[By:桜与知世]
 Empurple
 浸染成紫
 電線に跨って
@@ -78,3 +79,5 @@ Please, Forgive me and \"Purple\"
 请原谅我和“紫”
 まだ真ん中の私　Empurple
 仍在征途的我浸染成紫
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

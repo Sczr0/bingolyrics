@@ -1,3 +1,4 @@
+﻿
 Ah, si je pouvais vivre dans l'eau,
 le monde serait-il plus beau ?
 Nous pardonneras-tu, ô chère mère ?
@@ -10,15 +11,5 @@ C'est notre histoire de vie, douce et amère.
 Moi, je suis et serai toujours là,
 à voir le monde et sa beauté.
 Et ça ne changera jamais, jamais...
-啊，若化水复回归途
-令故土朝暮如初
-啊母亲可否将我宽恕
-向四季流溯，引万籁驰骛
-所过处百废复苏
-亦充盈挚爱的心湖
-爱，就将这酣梦深埋
-诀别如繁花盛开
-似你我往怀，愉快悲哀
-爱，我会在过去未来
-注视这世间精彩
-一切从未改，未改……
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

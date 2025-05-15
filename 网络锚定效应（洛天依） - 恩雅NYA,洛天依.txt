@@ -1,4 +1,5 @@
-网络锚定效应
+﻿网络锚定效应
+音乐：米库喵
 WOW
 习惯了随波逐流
 WOW
@@ -73,3 +74,5 @@ WOW
 面对真相 其实谁都一样
 那些你愿意信的
 是被你筛选过的
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

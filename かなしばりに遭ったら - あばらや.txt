@@ -1,3 +1,4 @@
+﻿[By:又目儿言成]
 あなたが朝なら
 若你化身为早晨的话
 私はそれを零す窓とかだろう
@@ -96,3 +97,5 @@
 被消减的我的质量
 ね　そろそろ起きてよ
 啊 是时候该醒来了
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]

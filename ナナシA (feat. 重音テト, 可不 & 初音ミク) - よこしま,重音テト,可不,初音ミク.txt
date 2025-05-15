@@ -84,3 +84,5 @@
 神啊，请夺走吧
 「あなたの代わりはいない」ただそれだけだった
 “没有人能代替你”仅此而已
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]
