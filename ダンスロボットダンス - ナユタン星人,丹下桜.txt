@@ -1,0 +1,157 @@
+﻿[By:Ace375]
+歌唱プログラム、起動
+歌唱程序，启动
+人間は、歌が好き
+人类，喜欢唱歌
+これは何かいいかあるのですが？
+这有什么好处吗
+ダンス　ロボット　ダンス
+dance robot dance
+DANCE!
+DANCE！
+自在のステップトゥステップだって
+自在的舞步舞步也在
+プログラムの范畴さ
+程序的范畴中
+YOU!
+YOU！
+呼吸を乱している？
+呼吸变得混乱
+なんて非効率的でしょう
+真是没有效率对吧
+ロボットダンス
+robot dance
+LOCK!
+LOCK！
+交わしてアイトゥアイ
+互相交换的视线
+すでに次元も超えた戦场だ
+早已是超越了次元的战场
+アイ
+ai(爱/I)
+思考を乱している
+思考变得混乱
+胸が高鸣っていく
+心跳越来越快
+インプット
+开始输入
+UP SIDE
+UP SIDE
+UP SIDE DOWN
+UP SIDE DOWN
+UP SIDE DOWN SIDE UP AND DOWN
+UP SIDE DOWN SIDE UP AND DOWN
+LEFT SIDE
+LEFT SIDE
+LEFT SIDE RIGHT
+LEFT SIDE RIGHT
+LEFT RIGHT UP DOWN
+LEFT RIGHT UP DOWN
+YOU AND ME
+YOU AND ME
+ときめく心のモーションが
+这砰砰直跳的心啊
+あなたに共鸣して止まないの！
+与你的共鸣完全停不下来啊
+合理とは真逆のプログラム
+与合理逆反的程序
+知りたい 知りたい
+想要知道 想要知道
+ねえもっと 付きあって！
+再多陪我一会嘛
+ダンスロボットダンス
+dance robot dance
+もーいいかい？
+已经可以了吗
+ダンスロボットダンス
+dance robot dance
+まーだだよ
+还没好哦
+ダンスロボットダンス
+dance robot dance
+もーいいかい？
+已经可以了吗
+ダンスロボットダンス
+dance robot dance
+もーちょっと！
+再等一下！
+1.危ないことはしちゃダメ
+1.危险的事绝对禁止
+2.指示には従うこと
+2.要听从指示
+3.自分の身は守ること
+3.要把自己的身体保护好
+4.ドキドキさせないこと！
+4.不许让我心动！
+PUNK!
+PUNK！(无用！)
+覚束ないモーションなんて、
+不稳定的动作什么的
+プログラムの范畴外
+就在程序的范畴外
+アイ
+EYE！
+视界 昙っている
+视线一片模糊
+再度取り返せるか
+能否再次将其取回
+シンキング
+这样想着
+UP SIDE
+UP SIDE
+UP SIDE DOWN
+UP SIDE DOWN
+UP SIDE DOWN SIDE UP AND DOWN
+UP SIDE DOWN SIDE UP AND DOWN
+LEFT SIDE
+LEFT SIDE
+LEFT SIDE RIGHT
+LEFT SIDE RIGHT
+LEFT RIGHT UP DOWN
+LEFT RIGHT UP DOWN
+YOU AND ME
+YOU AND ME
+ときめく心のモーションは
+这砰砰直跳的心啊
+あなたに伝わりやしないな
+完全无法传达给你
+呼吸や温度の意味なんて
+呼吸与温度的意义什么的
+知らない 要らない
+不知道 不需要
+ねえもっと 近づいて
+呐再多靠近一点嘛
+恋とは心のバグなのさ
+所谓恋爱就是心的bug啦
+それでも共鸣して、
+即便如此也想与你
+いたいの！
+产生共鸣！
+あなたとわたしの
+你与我的
+シンギュラリティ
+独特之处
+ごめんね！ ごめんね！
+对不起嘛！对不起嘛！
+もうずっと 付きあって！
+干脆永远陪着我吧！
+ダンスロボットダンス
+dance robot dance
+もーいいかい？
+已经可以了吗
+ダンスロボットダンス
+dance robot dance
+まーだだよ
+还没好哦
+ダンスロボットダンス
+dance robot dance
+もーいいかい？
+已经可以了吗
+ダンスロボットダンス
+dance robot dance
+もーちょっと！
+再等一下！
+歌唱プログラム、終了します
+歌唱程序，终止
+[re:Made by LrcHelper @https://github.com/ludoux/lrchelper]
+[ve:3.0.0.0]
